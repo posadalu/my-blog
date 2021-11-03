@@ -1,0 +1,15 @@
+{
+    "list": [
+       {
+          "name":"Flipped",
+          "url":"https://hexo.io/",
+          "desc":"A decentralized and open-source Learning Management System for self-learners"
+       },
+       {
+          "name":"On Education",
+          "url":"http://fontawesome.io/",
+          "desc":"A white paper on innovating education"
+       }
+    ]
+ }
+ 
